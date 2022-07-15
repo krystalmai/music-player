@@ -18,7 +18,7 @@ export const styles = {
     flexDirection: "column",
     justifyContent: "center",
     alignItems: "center",
-    backgroundColor: "0D0D0D",
+    backgroundColor: "#0D0D0D",
   },
   boxContainer: {
     backgroundImage: `url(${BgImage})`,
