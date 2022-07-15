@@ -9,7 +9,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 * Users are able to play, pause or jump from one song to another with the controller.
 
 
-## To develop in the future
+## To be developed in the future
 * Volume slider
 * Song Progress slider
 * Repeat, Loop, Shuffle 
